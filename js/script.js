@@ -746,3 +746,10 @@ function getResult(element){
 function next(){
 	document.getElementById("question_box").innerHTML ="";
 }
+/*team falcons
+contribution
+Smarth Anand
+Akash chaudhary
+Nikunj jain
+Avnika Agarwal
+*/
